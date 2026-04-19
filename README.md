@@ -92,7 +92,7 @@ System Features
 
  Demo Video
 
-👉 Add your YouTube video link here
+ Add your YouTube video link here
 
 ---
 
